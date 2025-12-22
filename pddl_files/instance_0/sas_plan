@@ -1,0 +1,6 @@
+(move-tile tile5 pos22 pos12)
+(move-tile tile6 pos21 pos22)
+(move-tile tile8 pos11 pos21)
+(move-tile tile5 pos12 pos11)
+(move-tile tile6 pos22 pos12)
+; cost = 5 (unit cost)
